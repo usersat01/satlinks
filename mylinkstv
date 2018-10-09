@@ -2,6 +2,530 @@
 
 #EXTINF:-1,AutoMoto TV
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1,Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,Cremona 1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,eTV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Radio 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Radio Monte Carlo
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1,Radio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1,Radio Virgin TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Rete 55
+http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
+#EXTINF:-1,Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+#EXTINF:-1,RTV 38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:-1,Sky TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,Sudtirol TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1,SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,teleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+#EXTINF:-1,Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,Trentino TV*
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+#EXTINF:-1,TSN
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,TV Luna
+http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:-1,BN-SPORT-1=LOW
+http://egyman.net:1978/live/171110/171110/4937.ts
+
+#EXTINF:-1,BN-SPORT-2=LOW
+http://egyman.net:1978/live/171110/171110/4936.ts
+
+#EXTINF:-1,BN-SPORT-3=LOW
+http://egyman.net:1978/live/171110/171110/4935.ts
+
+#EXTINF:-1,BN-SPORT-4=LOW
+http://egyman.net:1978/live/171110/171110/4934.ts
+
+#EXTINF:-1,BN-SPORT-5=LOW
+http://egyman.net:1978/live/171110/171110/4933.ts
+
+#EXTINF:-1,BN-SPORT-6=LOW
+http://egyman.net:1978/live/171110/171110/4932.ts
+
+#EXTINF:-1,BN-SPORT-7=LOW
+http://egyman.net:1978/live/171110/171110/4931.ts
+
+#EXTINF:-1,BN-SPORT-8=LOW
+http://egyman.net:1978/live/171110/171110/4930.ts
+
+#EXTINF:-1,BN-SPORT-9=LOW
+http://egyman.net:1978/live/171110/171110/4929.ts
+
+#EXTINF:-1,BN-SPORT-1=512
+http://egyman.net:1978/live/171110/171110/2.ts
+
+#EXTINF:-1,BN-SPORT-2=512
+http://egyman.net:1978/live/171110/171110/3.ts
+
+#EXTINF:-1,BN-SPORT-3=512
+http://egyman.net:1978/live/171110/171110/4.ts
+
+#EXTINF:-1,BN-SPORT-4=512
+http://egyman.net:1978/live/171110/171110/6.ts
+
+#EXTINF:-1,BN-SPORT-5=512
+http://egyman.net:1978/live/171110/171110/7.ts
+
+#EXTINF:-1,BN-SPORT-6=512
+http://egyman.net:1978/live/171110/171110/8.ts
+
+#EXTINF:-1,BN-SPORT-7=512
+http://egyman.net:1978/live/171110/171110/9.ts
+
+#EXTINF:-1,BN-SPORT-8=512
+http://egyman.net:1978/live/171110/171110/10.ts
+
+#EXTINF:-1,BN-SPORT-9=512
+http://egyman.net:1978/live/171110/171110/11.ts
+
+#EXTINF:-1,BN-SPORT-10=512
+http://egyman.net:1978/live/171110/171110/12.ts
+
+#EXTINF:-1,BN-SPORT-1=SD
+http://egyman.net:1978/live/171110/171110/22.ts
+
+#EXTINF:-1,BN-SPORT-2=SD
+http://egyman.net:1978/live/171110/171110/21.ts
+
+#EXTINF:-1,BN-SPORT-3=SD
+http://egyman.net:1978/live/171110/171110/20.ts
+
+#EXTINF:-1,BN-SPORT-4=SD
+http://egyman.net:1978/live/171110/171110/19.ts
+
+#EXTINF:-1,BN-SPORT-5=SD
+http://egyman.net:1978/live/171110/171110/18.ts
+
+#EXTINF:-1,BN-SPORT-6=SD
+http://egyman.net:1978/live/171110/171110/17.ts
+
+#EXTINF:-1,BN-SPORT-7=SD
+http://egyman.net:1978/live/171110/171110/16.ts
+
+#EXTINF:-1,BN-SPORT-8=SD
+http://egyman.net:1978/live/171110/171110/15.ts
+
+#EXTINF:-1,BN-SPORT-9=SD
+http://egyman.net:1978/live/171110/171110/14.ts
+
+#EXTINF:-1,BN-SPORT-10=SD
+http://egyman.net:1978/live/171110/171110/13.ts
+
+#EXTINF:-1,BN-SPORT-1=HD
+http://egyman.net:1978/live/171110/171110/4555.ts
+
+#EXTINF:-1,BN-SPORT-2=HD
+http://egyman.net:1978/live/171110/171110/4554.ts
+
+#EXTINF:-1,BN-SPORT-3=HD
+http://egyman.net:1978/live/171110/171110/4553.ts
+
+#EXTINF:-1,BN-SPORT-5=HD
+http://egyman.net:1978/live/171110/171110/4551.ts
+
+#EXTINF:-1,BN-SPORT-6=HD
+http://egyman.net:1978/live/171110/171110/4550.ts
+
+#EXTINF:-1,BN-SPORT-7=HD
+http://egyman.net:1978/live/171110/171110/4549.ts
+
+#EXTINF:-1,BN-SPORT-8=HD
+http://egyman.net:1978/live/171110/171110/4548.ts
+
+#EXTINF:-1,BN-SPORT-9=HD
+http://egyman.net:1978/live/171110/171110/4547.ts
+
+#EXTINF:-1,BN-SPORT-10=HD
+http://egyman.net:1978/live/171110/171110/4546.ts
+
+#EXTINF:-1,BN-SPORT-4=HD
+http://egyman.net:1978/live/171110/171110/4552.ts
+#EXTINF:-1,FR: CANAL SPORT
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/739.ts
+
+#EXTINF:-1,FR: BEINSPORTS_1_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/761.ts
+
+#EXTINF:-1,FR: BEINSPORTS_2_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/762.ts
+
+#EXTINF:-1,FR: BEINSPORT_3_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/763.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1099.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1100.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1101.ts
+
+#EXTINF:-1,FR: SFR SPORT 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1095.ts
+
+#EXTINF:-1,FR: SFR SPORT 3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1096.ts
+
+#EXTINF:-1,FR: FOOT 24/24
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/760.ts
+
+#EXTINF:-1,FR: Ushuaia_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/577.ts
+
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/870.ts
+
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/869.ts
+
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/812.ts
+
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/811.ts
+
+#EXTINF:-1,IT: Sky Super Calcio HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/820.ts
+
+#EXTINF:-1,IT: Super Tennis HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/815.ts
+
+#EXTINF:-1,NL | FOX  Sports EDL 1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1415.ts
+
+#EXTINF:-1,°NL | FOX SPORTS  2 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1416.ts
+
+#EXTINF:-1,NL | FOX SPORTS  3 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1417.ts
+
+#EXTINF:-1,°NL | FOX SPORTS 4 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1418.ts
+
+#EXTINF:-1,°NL | FOX SPORTS 5 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1419.ts
+
+#EXTINF:-1,°NL | ZIGGO SPORT EXTRA 2
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1440.ts
+
+#EXTINF:-1,NL |  ZIGGO SPORT GOLF
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1436.ts
+
+#EXTINF:-1,SRB | ARENA SPORT 1 SD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/4152.ts
+
+#EXTINF:-1,TR | beIN SPORTS iptv4sat.com 1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/512.ts
+
+#EXTINF:-1,TR | beIN SPORTS HD 1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/4.ts
+
+#EXTINF:-1,TR | beIN SPORTS HD 1 +
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/10.ts
+
+#EXTINF:-1,TR | beIN SPORTS 2
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/513.ts
+
+#EXTINF:-1,TR | beIN SPORTS HD 2
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/3.ts
+
+#EXTINF:-1,TR | beIN SPORTS 3
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/514.ts
+
+#EXTINF:-1,TR | beIN SPORTS HD 3
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2.ts
+
+#EXTINF:-1,TR | beIN SPORTS HD 3 +
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/8.ts
+
+#EXTINF:-1,TR | beIN SPORTS 4
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/515.ts
+
+#EXTINF:-1,TR | beIN SPORTS HD 4
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1.ts
+
+#EXTINF:-1,TR | beIN SPORTS HD 4 +
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/7.ts
+
+#EXTINF:-1,TR | beIN SPORTS HABER HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/214.ts
+
+#EXTINF:-1,TR | beIN SPORTS MAX 1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/6.ts
+
+#EXTINF:-1,TR | tivibu SPOR 1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/17.ts
+
+#EXTINF:-1,TR | tivibu SPOR 3 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/15.ts
+
+#EXTINF:-1,TR | tivibu SPOR 4 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/14.ts
+
+#EXTINF:-1,TR | EUROSPORT 1HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/21.ts
+
+#EXTINF:-1,TR | EURO SPORT 2HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/22.ts
+
+#EXTINF:-1,TR | NBA TV HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/532.ts
+
+#EXTINF:-1,TR | S SPORT HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/13.ts
+
+#EXTINF:-1,TR | SMARTSPOR 1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/12.ts
+
+#EXTINF:-1,TR | TRT SPOR UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/573.ts
+
+#EXTINF:-1,TR | TRT SPOR HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/19.ts
+
+#EXTINF:-1,TR | A SPOR UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/477.ts
+
+#EXTINF:-1,TR | ASPOR  HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/20.ts
+
+#EXTINF:-1,TR | FB TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/25.ts
+
+#EXTINF:-1,TR | GS TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/24.ts
+
+#EXTINF:-1,TR | BURSA SPOR TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/27.ts
+
+#EXTINF:-1,TR | TJK TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/26.ts
+
+#EXTINF:-1,TR | DMAX HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/18.ts
+
+#EXTINF:-1,TR | SPORTS TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1061.ts
+
+#EXTINF:-1,DE | AUTO MOTORSPORT HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/134.ts
+
+#EXTINF:-1,DE | auto motor sport
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/902.ts
+
+#EXTINF:-1,DE | Motorvision TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/160.ts
+
+#EXTINF:-1,DE | EUROSPORT1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/136.ts
+
+#EXTINF:-1,DE | EUROSPORT 2
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/508.ts
+
+#EXTINF:-1,DE | SPORT1 US
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/841.ts
+
+#EXTINF:-1,DE | SPORT DIGITAL
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/137.ts
+
+#EXTINF:-1,DE | Sportdigital
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/571.ts
+
+#EXTINF:-1,DE | Eurosport 2 HD Xtra
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/135.ts
+
+#EXTINF:-1,DE | EUROSPORT2 XTRA UHD T
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/833.ts
+
+#EXTINF:-1,°PL | nSport Plus HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1393.ts
+
+#EXTINF:-1,°PL | POLSAT SPORT HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1387.ts
+
+#EXTINF:-1,UK | SKY SPORTS 3 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1456.ts
+
+#EXTINF:-1,iptv4sat.com UK | SKY SPORTS 4 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1455.ts
+
+#EXTINF:-1,beIN_SPORTS_1_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/30.ts
+
+#EXTINF:-1,beIN_SPORTS_2_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/29.ts
+
+#EXTINF:-1,beIN_SPORTS_3_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/28.ts
+
+#EXTINF:-1,beIN_SPORTS_4_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/27.ts
+
+#EXTINF:-1,beIN_SPORTS_5_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/26.ts
+
+#EXTINF:-1,beIN_SPORTS_7_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/24.ts
+
+#EXTINF:-1,beIN_SPORTS_8_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/23.ts
+
+#EXTINF:-1,beIN_SPORTS_9_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/22.ts
+
+#EXTINF:-1,beIN_SPORTS_10_LOW
+http://iptv33.hopto.me:9000/live/22334455/22334455/21.ts
+
+#EXTINF:-1,BEIN SPORTS.10.SD
+http://iptv33.hopto.me:9000/live/22334455/22334455/82.ts
+
+#EXTINF:-1,beout-HD3 Local
+http://iptv33.hopto.me:9000/live/22334455/22334455/1782.ts
+
+#EXTINF:-1,beout-HD4 Local
+http://iptv33.hopto.me:9000/live/22334455/22334455/1781.ts
+
+#EXTINF:-1,beout-HD5 Local
+http://iptv33.hopto.me:9000/live/22334455/22334455/1780.ts
+
+#EXTINF:-1,beout-HD6 Local
+http://iptv33.hopto.me:9000/live/22334455/22334455/1779.ts
+
+#EXTINF:-1,beout-HD7 Local
+http://iptv33.hopto.me:9000/live/22334455/22334455/1778.ts
+
+#EXTINF:-1,beIN_SPORTS_5.FHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/64.ts
+
+#EXTINF:-1,beIN_SPORTS_6.FHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/63.ts
+
+#EXTINF:-1,beIN_SPORTS_7.FHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/62.ts
+
+#EXTINF:-1,beIN_SPORTS_9.FHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/60.ts
+
+#EXTINF:-1,BEIN_SPORT_1_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/10.ts
+
+#EXTINF:-1,BEIN_SPORT_2_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/9.ts
+
+#EXTINF:-1,BEIN_SPORT_3_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/8.ts
+
+#EXTINF:-1,BEIN_SPORT_4_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/7.ts
+
+#EXTINF:-1,BEIN_SPORT_5_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/6.ts
+
+#EXTINF:-1,BEIN_SPORT_7_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/4.ts
+
+#EXTINF:-1,BEIN_SPORT_8_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/3.ts
+
+#EXTINF:-1,BEIN_SPORT_9_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/2.ts
+
+#EXTINF:-1,BEIN_SPORT_10_UHD
+http://iptv33.hopto.me:9000/live/22334455/22334455/1.ts
+
+#EXTINF:-1,AD Sports HD 1
+http://iptv33.hopto.me:9000/live/22334455/22334455/110.ts
+
+#EXTINF:-1,AD Sports HD 3
+http://iptv33.hopto.me:9000/live/22334455/22334455/108.ts
+
+#EXTINF:-1,AD Sports HD 4
+http://iptv33.hopto.me:9000/live/22334455/22334455/107.ts
+
+#EXTINF:-1,HR:ARENA_SPORT_1 HR
+http://iptv33.hopto.me:9000/live/22334455/22334455/859.ts
+
+#EXTINF:-1,FR::BeIN_SPORT_MAX4
+http://iptv33.hopto.me:9000/live/22334455/22334455/706.ts
+
+#EXTINF:-1,FR::BeIN_SPORT_MAX8
+http://iptv33.hopto.me:9000/live/22334455/22334455/702.ts
+
+#EXTINF:-1,FR::BeIN_SPORT_MAX10
+http://iptv33.hopto.me:9000/live/22334455/22334455/700.ts
+
+#EXTINF:-1,FR::EuroSport
+http://iptv33.hopto.me:9000/live/22334455/22334455/696.ts
+
+#EXTINF:-1,FR::Sfr Sport 1
+http://iptv33.hopto.me:9000/live/22334455/22334455/725.ts
+
+#EXTINF:-1,FR::AB Moteurs
+http://iptv33.hopto.me:9000/live/22334455/22334455/689.ts
+
+#EXTINF:-1,FR::BFM_Sport
+http://iptv33.hopto.me:9000/live/22334455/22334455/692.ts
+
+#EXTINF:-1,FR::EQUIDIA_LIFE
+http://iptv33.hopto.me:9000/live/22334455/22334455/686.ts
+
+#EXTINF:-1,FR::L.EQUIPE21
+http://iptv33.hopto.me:9000/live/22334455/22334455/690.ts
+
+#EXTINF:-1,F::-BEIN SPORTS1 4K
+http://iptv33.hopto.me:9000/live/22334455/22334455/8075.ts
+
+#EXTINF:-1,F::-BEIN SPORTS2 4K
+http://iptv33.hopto.me:9000/live/22334455/22334455/8073.ts
+
+#EXTINF:-1,F::-BEIN SPORTS3 4K
+http://iptv33.hopto.me:9000/live/22334455/22334455/8071.ts
+
 #EXTINF:-1,BeinSport1 FULL HD check
 http://2111.space:25461/live/admin_553514/LxjX3IXA/1316.ts
 #EXTINF:-1,BeinSport2 FULL HD
