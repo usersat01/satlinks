@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1,BeinSport1 FULL HD
+
+#EXTINF:-1,AutoMoto TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,BeinSport1 FULL HD check
 http://2111.space:25461/live/admin_553514/LxjX3IXA/1316.ts
 #EXTINF:-1,BeinSport2 FULL HD
 http://2111.space:25461/live/admin_553514/LxjX3IXA/1315.ts
