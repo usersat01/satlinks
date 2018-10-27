@@ -90,3 +90,921 @@ http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 
 #EXTINF:-1,Video Calabria
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+
+
+
+#EXTINF:-1,BeinSport1 512 KBB --------- Sport list
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1336.m3u8
+
+#EXTINF:-1,BeinSport2 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1335.m3u8
+
+#EXTINF:-1,BeinSport3 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1334.m3u8
+
+#EXTINF:-1,BeinSport4 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1333.m3u8
+
+#EXTINF:-1,BeinSport5 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1332.m3u8
+
+#EXTINF:-1,BeinSport6 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1331.m3u8
+
+#EXTINF:-1,BeinSport7 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1330.m3u8
+
+#EXTINF:-1,BeinSport8 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1329.m3u8
+
+#EXTINF:-1,BeinSport9 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1328.m3u8
+
+#EXTINF:-1,BeinSport10 512 KBB
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1327.m3u8
+
+#EXTINF:-1,BeinSport1_VERY_LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1356.m3u8
+
+#EXTINF:-1,BeinSport 2 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1355.m3u8
+
+#EXTINF:-1,BeinSport 3 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1354.m3u8
+
+#EXTINF:-1,BeinSport 4 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1353.m3u8
+
+#EXTINF:-1,BeinSport 5 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1352.m3u8
+
+#EXTINF:-1,BeinSport 6 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1351.m3u8
+
+#EXTINF:-1,BeinSport_7_VERY_LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1350.m3u8
+
+#EXTINF:-1,BeinSport 8 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1349.m3u8
+
+#EXTINF:-1,BeinSport 9 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1348.m3u8
+
+#EXTINF:-1,BeinSport 10 VERY LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1347.m3u8
+
+#EXTINF:-1,BeinSport1 512 KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1326.m3u8
+
+#EXTINF:-1,BeinSport2 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1325.m3u8
+
+#EXTINF:-1,BeinSport3 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1324.m3u8
+
+#EXTINF:-1,BeinSport4 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1323.m3u8
+
+#EXTINF:-1,BeinSport5 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1322.m3u8
+
+#EXTINF:-1,BeinSport6 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1321.m3u8
+
+#EXTINF:-1,BeinSport7 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1320.m3u8
+
+#EXTINF:-1,BeinSport9 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1318.m3u8
+
+#EXTINF:-1,BeinSport10 512KB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1317.m3u8
+
+#EXTINF:-1,BeinSport1 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1346.m3u8
+
+#EXTINF:-1,BeinSport 2 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1345.m3u8
+
+#EXTINF:-1,BeinSport 3 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1344.m3u8
+
+#EXTINF:-1,BeinSport 4 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1343.m3u8
+
+#EXTINF:-1,BeinSport5 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1342.m3u8
+
+#EXTINF:-1,BeinSport6 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1341.m3u8
+
+#EXTINF:-1,BeinSport7_1MB_LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1340.m3u8
+
+#EXTINF:-1,BeinSport8 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1339.m3u8
+
+#EXTINF:-1,BeinSport9 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1338.m3u8
+
+#EXTINF:-1,BeinSport10 1MB LOW
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1337.m3u8
+
+#EXTINF:-1,BEIN1_720P
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1813.m3u8
+
+#EXTINF:-1,BEIN3_720P
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1815.m3u8
+
+#EXTINF:-1,Bein5_720P
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1817.m3u8
+
+#EXTINF:-1,Bein6_720P
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1818.m3u8
+
+#EXTINF:-1,Bein7_720P
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1819.m3u8
+
+#EXTINF:-1,BEIN_SPORT_1
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1825.m3u8
+
+#EXTINF:-1,BEIN_SPORT_2
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1826.m3u8
+
+#EXTINF:-1,BEIN_SPORT_3
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1827.m3u8
+
+#EXTINF:-1,BEIN_SPORT_4
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1828.m3u8
+
+#EXTINF:-1,BEIN_SPORT_5
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1829.m3u8
+
+#EXTINF:-1,BEIN_SPORT_6
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1831.m3u8
+
+#EXTINF:-1,BEIN_SPORT_7
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1830.m3u8
+
+#EXTINF:-1,BEIN_SPORT_8
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1832.m3u8
+
+#EXTINF:-1,BEIN_SPORT_9
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1833.m3u8
+
+#EXTINF:-1,BEIN_SPORT_10
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1834.m3u8
+
+#EXTINF:-1,Bein1 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1286.m3u8
+
+#EXTINF:-1,Bein2 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1285.m3u8
+
+#EXTINF:-1,Bein3 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1284.m3u8
+
+#EXTINF:-1,Bein4 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1283.m3u8
+
+#EXTINF:-1,Bein5 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1282.m3u8
+
+#EXTINF:-1,Bein6 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1281.m3u8
+
+#EXTINF:-1,Bein7 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1280.m3u8
+
+#EXTINF:-1,Bein8 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1279.m3u8
+
+#EXTINF:-1,Bein9 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1278.m3u8
+
+#EXTINF:-1,Bein10 1M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1277.m3u8
+
+#EXTINF:-1,Bein1 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1296.m3u8
+
+#EXTINF:-1,Bein2 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1295.m3u8
+
+#EXTINF:-1,Bein3 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1294.m3u8
+
+#EXTINF:-1,Bein4 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1293.m3u8
+
+#EXTINF:-1,Bein5 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1292.m3u8
+
+#EXTINF:-1,Bein6 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1291.m3u8
+
+#EXTINF:-1,Bein7 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1290.m3u8
+
+#EXTINF:-1,Bein8 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1289.m3u8
+
+#EXTINF:-1,Bein9 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1288.m3u8
+
+#EXTINF:-1,Bein10 2M
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1287.m3u8
+
+#EXTINF:-1,BeinSport1 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1316.m3u8
+
+#EXTINF:-1,BeinSport2 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1315.m3u8
+
+#EXTINF:-1,BeinSport3 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1314.m3u8
+
+#EXTINF:-1,BeinSport4 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1313.m3u8
+
+#EXTINF:-1,BeinSport5 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1312.m3u8
+
+#EXTINF:-1,BeinSport6 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1311.m3u8
+
+#EXTINF:-1,BeinSport7 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1310.m3u8
+
+#EXTINF:-1,BeinSport8 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1309.m3u8
+
+#EXTINF:-1,BeinSport9 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1308.m3u8
+
+#EXTINF:-1,BeinSport10 FULL HD
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1307.m3u8
+
+#EXTINF:-1,BeinSport1 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1306.m3u8
+
+#EXTINF:-1,BeinSport2 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1305.m3u8
+
+#EXTINF:-1,BeinSport3 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1304.m3u8
+
+#EXTINF:-1,BeinSport4 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1303.m3u8
+
+#EXTINF:-1,BeinSport5 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1302.m3u8
+
+#EXTINF:-1,BeinSport6 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1301.m3u8
+
+#EXTINF:-1,BeinSport7 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1300.m3u8
+
+#EXTINF:-1,BeinSport8 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1299.m3u8
+
+#EXTINF:-1,BeinSport9 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1298.m3u8
+
+#EXTINF:-1,BeinSport10 4KB PLUSE
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1297.m3u8
+
+#EXTINF:-1,Bein Sports1 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1276.m3u8
+
+#EXTINF:-1,Bein Sports2 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1275.m3u8
+
+#EXTINF:-1,Bein Sports3 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1274.m3u8
+
+#EXTINF:-1,Bein Sports4 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1273.m3u8
+
+#EXTINF:-1,Bein Sports5 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1272.m3u8
+
+#EXTINF:-1,Bein Sports6 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1271.m3u8
+
+#EXTINF:-1,Bein Sports7 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1270.m3u8
+
+#EXTINF:-1,Bein Sports8 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1269.m3u8
+
+#EXTINF:-1,Bein Sports9 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1268.m3u8
+
+#EXTINF:-1,Bein Sports10 EX
+http://2111.space:25461/live/admin_967202/pAzpNNgr/1267.m3u8
+
+#EXTINF:-1,SUPER SPORT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/490.m3u8
+
+#EXTINF:-1,SUPER SPORT 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/491.m3u8
+
+#EXTINF:-1,SUPER SPORT 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/492.m3u8
+
+#EXTINF:-1,SUPER SPORT 1 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/517.m3u8
+
+#EXTINF:-1,SUPER SPORT 2 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/518.m3u8
+
+#EXTINF:-1,SUPER SPORT 3 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/519.m3u8
+
+#EXTINF:-1,SUPER SPORT 4 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/520.m3u8
+
+#EXTINF:-1,SUPER SPORT KOSOVA 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/521.m3u8
+
+#EXTINF:-1,SUPER SPORT KOSOVA 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/522.m3u8
+
+#EXTINF:-1,TRING SPORT NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/524.m3u8
+
+#EXTINF:-1,TRING SPORT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/525.m3u8
+
+#EXTINF:-1,TRING SPORT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/526.m3u8
+
+#EXTINF:-1,TRING SPORT 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/527.m3u8
+
+#EXTINF:-1,TRING SPORT 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/528.m3u8
+
+#EXTINF:-1,K SPORT 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/841.m3u8
+
+#EXTINF:-1,K SPORT 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/842.m3u8
+
+#EXTINF:-1,K SPORT 3
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/843.m3u8
+
+#EXTINF:-1,K SPORT 4
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/844.m3u8
+
+#EXTINF:-1,SPORT TV +HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/529.m3u8
+
+#EXTINF:-1,SPORT TV 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/530.m3u8
+
+#EXTINF:-1,SPORT TV 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/531.m3u8
+
+#EXTINF:-1,SPORT TV 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/532.m3u8
+
+#EXTINF:-1,SPORT TV 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/533.m3u8
+
+#EXTINF:-1,SPORT TV 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/534.m3u8
+
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/846.m3u8
+
+#EXTINF:-1,SKY SPORT NEWS DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/845.m3u8
+
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/847.m3u8
+
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/848.m3u8
+
+#EXTINF:-1,EUROSPORT 1 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/867.m3u8
+
+#EXTINF:-1,EUROSPORT 2 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/868.m3u8
+
+#EXTINF:-1,MOTORVISION TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/869.m3u8
+
+#EXTINF:-1,TELECLUB SPORT 1 SD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/870.m3u8
+
+#EXTINF:-1,SPORT +1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/873.m3u8
+
+#EXTINF:-1,ORF SPORT + HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/875.m3u8
+
+#EXTINF:-1,FC BAYERN TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/874.m3u8
+
+#EXTINF:-1,SPORT 1 US HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/878.m3u8
+
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/887.m3u8
+
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/883.m3u8
+
+#EXTINF:-1,SKY SPORT ARENA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/879.m3u8
+
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/880.m3u8
+
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/886.m3u8
+
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/882.m3u8
+
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/881.m3u8
+
+#EXTINF:-1,SKY SPORTS F1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/885.m3u8
+
+#EXTINF:-1,BT SPORTS 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/939.m3u8
+
+#EXTINF:-1,BT SPORTS 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/940.m3u8
+
+#EXTINF:-1,BT SPORTS 3HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/941.m3u8
+
+#EXTINF:-1,BT SPORTS ESPN
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/942.m3u8
+
+#EXTINF:-1,SKY SPORT 1 HD ITA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/967.m3u8
+
+#EXTINF:-1,SKY SPORT 2 HD ITA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/968.m3u8
+
+#EXTINF:-1,SKY SPORT 3 HD ITA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/969.m3u8
+
+#EXTINF:-1,SKY SPORT 24 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/970.m3u8
+
+#EXTINF:-1,PREMIUM SPORT 1 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/971.m3u8
+
+#EXTINF:-1,PREMIUM SPORT 2 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/972.m3u8
+
+#EXTINF:-1,ARENA SPORT 1 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1033.m3u8
+
+#EXTINF:-1,ARENA SPORT 2 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1034.m3u8
+
+#EXTINF:-1,ARENA SPORT 3 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1035.m3u8
+
+#EXTINF:-1,ARENA SPORT 4 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1036.m3u8
+
+#EXTINF:-1,ARENA SPORT 5 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1037.m3u8
+
+#EXTINF:-1,ARENA SPORT 1 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1038.m3u8
+
+#EXTINF:-1,ARENA SPORT 2 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1039.m3u8
+
+#EXTINF:-1,ARENA SPORT 3 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1040.m3u8
+
+#EXTINF:-1,ARENA SPORT 4 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1041.m3u8
+
+#EXTINF:-1,ARENA SPORT 5 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1042.m3u8
+
+#EXTINF:-1,ARENA SPORT 6 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1043.m3u8
+
+#EXTINF:-1,SPORT KLUB 1 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1044.m3u8
+
+#EXTINF:-1,SPORT KLUB 2 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1045.m3u8
+
+#EXTINF:-1,SPORT KLUB 3 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1046.m3u8
+
+#EXTINF:-1,SPORT KLUB 4 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1047.m3u8
+
+#EXTINF:-1,SPORT KLUB 5 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1048.m3u8
+
+#EXTINF:-1,BEIN SPORT HABER
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1050.m3u8
+
+#EXTINF:-1,BEIN SPORT 1 HD TÃœRK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1051.m3u8
+
+#EXTINF:-1,BEIN SPORT 2 HD TÜRK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1052.m3u8
+
+#EXTINF:-1,BEIN SPORT 3 HD TÃœRK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1053.m3u8
+
+#EXTINF:-1,TIVIBU SPOR 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1054.m3u8
+
+#EXTINF:-1,TIVIBU SPOR 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1055.m3u8
+
+#EXTINF:-1,TIVIBU SPOR 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1056.m3u8
+
+#EXTINF:-1,TIVIBU SPOR 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1057.m3u8
+
+#EXTINF:-1,TRT SPOR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1059.m3u8
+
+#EXTINF:-1,A SPOR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1060.m3u8
+
+#EXTINF:-1,SPORT SMART HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1061.m3u8
+
+#EXTINF:-1,S SPORT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1062.m3u8
+
+#EXTINF:-1,FENERBAHCE TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1058.m3u8
+
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2150.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2145.m3u8
+
+#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2146.m3u8
+
+#EXTINF:-1,FOX SPORTS 4 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2147.m3u8
+
+#EXTINF:-1,FOX SPORTS 5 EREDIVISIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2148.m3u8
+
+#EXTINF:-1,FOX SPORTS 6 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2149.m3u8
+
+#EXTINF:-1,BEIN SPORT NEWS HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2165.m3u8
+
+#EXTINF:-1,BEIN SPORT 1 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2155.m3u8
+
+#EXTINF:-1,BEIN SPORT 2 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2156.m3u8
+
+#EXTINF:-1,BEIN SPORT 3 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2157.m3u8
+
+#EXTINF:-1,BEIN SPORT 4 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2158.m3u8
+
+#EXTINF:-1,BEIN SPORT 5 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2159.m3u8
+
+#EXTINF:-1,BEIN SPORT 6 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2160.m3u8
+
+#EXTINF:-1,BEIN SPORT 7 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2161.m3u8
+
+#EXTINF:-1,BEIN SPORT 8 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2162.m3u8
+
+#EXTINF:-1,BEIN SPORT 9 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2163.m3u8
+
+#EXTINF:-1,AD SPORT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2179.m3u8
+
+#EXTINF:-1,AD SPORT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2180.m3u8
+
+#EXTINF:-1,BEIN LA LIGA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2170.m3u8
+
+#EXTINF:-1,DIGI SPORT 1 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2166.m3u8
+
+#EXTINF:-1,DIGI SPORT 2 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2167.m3u8
+
+#EXTINF:-1,DIGI SPORT 3 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2168.m3u8
+
+#EXTINF:-1,DIGI SPORT 4 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2169.m3u8
+
+#EXTINF:-1,ElevenSports 3 low
+http://89.34.237.218:8000/live/messi/messi/6.m3u8
+
+#EXTINF:-1,ElevenSports 2 low
+http://89.34.237.218:8000/live/messi/messi/5.m3u8
+
+#EXTINF:-1,ElevenSports 1 Low
+http://89.34.237.218:8000/live/messi/messi/4.m3u8
+
+#EXTINF:-1,ElevenSports 3
+http://89.34.237.218:8000/live/messi/messi/3.m3u8
+
+#EXTINF:-1,ElevenSports 2
+http://89.34.237.218:8000/live/messi/messi/2.m3u8
+
+#EXTINF:-1,ElevenSports1
+http://89.34.237.218:8000/live/messi/messi/1.m3u8
+
+#EXTINF:-1,Bein1 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1286.m3u8
+
+#EXTINF:-1,Bein2 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1285.m3u8
+
+#EXTINF:-1,Bein3 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1284.m3u8
+
+#EXTINF:-1,Bein4 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1283.m3u8
+
+#EXTINF:-1,Bein5 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1282.m3u8
+
+#EXTINF:-1,Bein6 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1281.m3u8
+
+#EXTINF:-1,Bein7 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1280.m3u8
+
+#EXTINF:-1,Bein8 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1279.m3u8
+
+#EXTINF:-1,Bein9 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1278.m3u8
+
+#EXTINF:-1,Bein10 1M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1277.m3u8
+
+#EXTINF:-1,Bein1 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1296.m3u8
+
+#EXTINF:-1,Bein2 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1295.m3u8
+
+#EXTINF:-1,Bein3 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1294.m3u8
+
+#EXTINF:-1,Bein4 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1293.m3u8
+
+#EXTINF:-1,Bein5 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1292.m3u8
+
+#EXTINF:-1,Bein6 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1291.m3u8
+
+#EXTINF:-1,Bein7 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1290.m3u8
+
+#EXTINF:-1,Bein8 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1289.m3u8
+
+#EXTINF:-1,Bein9 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1288.m3u8
+
+#EXTINF:-1,Bein10 2M
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1287.m3u8
+
+#EXTINF:-1,BeinSport1 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1336.m3u8
+
+#EXTINF:-1,BeinSport2 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1335.m3u8
+
+#EXTINF:-1,BeinSport3 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1334.m3u8
+
+#EXTINF:-1,BeinSport4 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1333.m3u8
+
+#EXTINF:-1,BeinSport5 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1332.m3u8
+
+#EXTINF:-1,BeinSport6 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1331.m3u8
+
+#EXTINF:-1,BeinSport7 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1330.m3u8
+
+#EXTINF:-1,BeinSport8 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1329.m3u8
+
+#EXTINF:-1,BeinSport9 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1328.m3u8
+
+#EXTINF:-1,BeinSport10 512 KBB
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1327.m3u8
+
+#EXTINF:-1,BeinSport1_VERY_LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1356.m3u8
+
+#EXTINF:-1,BeinSport 2 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1355.m3u8
+
+#EXTINF:-1,BeinSport 3 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1354.m3u8
+
+#EXTINF:-1,BeinSport 4 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1353.m3u8
+
+#EXTINF:-1,BeinSport 5 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1352.m3u8
+
+#EXTINF:-1,BeinSport 6 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1351.m3u8
+
+#EXTINF:-1,BeinSport_7_VERY_LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1350.m3u8
+
+#EXTINF:-1,BeinSport 8 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1349.m3u8
+
+#EXTINF:-1,BeinSport 9 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1348.m3u8
+
+#EXTINF:-1,BeinSport 10 VERY LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1347.m3u8
+
+#EXTINF:-1,BeinSport1 512 KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1326.m3u8
+
+#EXTINF:-1,BeinSport2 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1325.m3u8
+
+#EXTINF:-1,BeinSport3 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1324.m3u8
+
+#EXTINF:-1,BeinSport4 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1323.m3u8
+
+#EXTINF:-1,BeinSport5 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1322.m3u8
+
+#EXTINF:-1,BeinSport6 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1321.m3u8
+
+#EXTINF:-1,BeinSport7 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1320.m3u8
+
+#EXTINF:-1,BeinSport9 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1318.m3u8
+
+#EXTINF:-1,BeinSport10 512KB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1317.m3u8
+
+#EXTINF:-1,BeinSport1 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1346.m3u8
+
+#EXTINF:-1,BeinSport 2 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1345.m3u8
+
+#EXTINF:-1,BeinSport 3 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1344.m3u8
+
+#EXTINF:-1,BeinSport 4 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1343.m3u8
+
+#EXTINF:-1,BeinSport5 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1342.m3u8
+
+#EXTINF:-1,BeinSport6 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1341.m3u8
+
+#EXTINF:-1,BeinSport7_1MB_LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1340.m3u8
+
+#EXTINF:-1,BeinSport8 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1339.m3u8
+
+#EXTINF:-1,BeinSport9 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1338.m3u8
+
+#EXTINF:-1,BeinSport10 1MB LOW
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1337.m3u8
+
+#EXTINF:-1,BeinSport1 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1316.m3u8
+
+#EXTINF:-1,BeinSport2 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1315.m3u8
+
+#EXTINF:-1,BeinSport3 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1314.m3u8
+
+#EXTINF:-1,BeinSport4 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1313.m3u8
+
+#EXTINF:-1,BeinSport5 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1312.m3u8
+
+#EXTINF:-1,BeinSport6 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1311.m3u8
+
+#EXTINF:-1,BeinSport7 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1310.m3u8
+
+#EXTINF:-1,BeinSport8 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1309.m3u8
+
+#EXTINF:-1,BeinSport9 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1308.m3u8
+
+#EXTINF:-1,BeinSport10 FULL HD
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1307.m3u8
+
+#EXTINF:-1,BeinSport1 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1306.m3u8
+
+#EXTINF:-1,BeinSport2 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1305.m3u8
+
+#EXTINF:-1,BeinSport3 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1304.m3u8
+
+#EXTINF:-1,BeinSport4 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1303.m3u8
+
+#EXTINF:-1,BeinSport5 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1302.m3u8
+
+#EXTINF:-1,BeinSport6 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1301.m3u8
+
+#EXTINF:-1,BeinSport7 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1300.m3u8
+
+#EXTINF:-1,BeinSport8 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1299.m3u8
+
+#EXTINF:-1,BeinSport9 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1298.m3u8
+
+#EXTINF:-1,BeinSport10 4KB PLUSE
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1297.m3u8
+
+#EXTINF:-1,Bein Sports1 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1276.m3u8
+
+#EXTINF:-1,Bein Sports2 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1275.m3u8
+
+#EXTINF:-1,Bein Sports3 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1274.m3u8
+
+#EXTINF:-1,Bein Sports4 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1273.m3u8
+
+#EXTINF:-1,Bein Sports5 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1272.m3u8
+
+#EXTINF:-1,Bein Sports6 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1271.m3u8
+
+#EXTINF:-1,Bein Sports7 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1270.m3u8
+
+#EXTINF:-1,Bein Sports8 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1269.m3u8
+
+#EXTINF:-1,Bein Sports9 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1268.m3u8
+
+#EXTINF:-1,Bein Sports10 EX
+http://2111.space:25461/live/admin_553514/LxjX3IXA/1267.m3u8
+
