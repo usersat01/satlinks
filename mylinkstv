@@ -21,3 +21,302 @@ http://thebest.allgood.ws:25461/live/pebbles/pebbles/49065.ts
 #EXTINF:0,BEIN Sports 11. Eng
 http://thebest.allgood.ws:25461/live/pebbles/pebbles/49076.ts
 #EXTINF:0,BEIN Sports 12. Eng
+#EXTM3U
+#EXTINF:-1,beIN SPORTS NEWS HD
+http://54.39.179.143:8000/live/test/server/189.ts
+#EXTINF:-1,AR: beIN Sports Full Hd 1 1080p
+http://54.39.179.143:8000/live/test/server/213.ts
+#EXTINF:-1,AR: beIN Sports Full Hd 3 1080p
+http://54.39.179.143:8000/live/test/server/215.ts
+#EXTINF:-1,AR: beIN Sports Full Hd 5 1080p
+http://54.39.179.143:8000/live/test/server/217.ts
+#EXTINF:-1,AR: beIN Sports Full Hd 6 1080p
+http://54.39.179.143:8000/live/test/server/218.ts
+#EXTINF:-1,AR: beIN Sports Full Hd 7 1080p
+http://54.39.179.143:8000/live/test/server/219.ts
+#EXTINF:-1,AR: beIN Sports Full Hd 8 1080p
+http://54.39.179.143:8000/live/test/server/220.ts
+#EXTINF:-1,AR: beIN Sports Full Hd 10 1080p
+http://54.39.179.143:8000/live/test/server/222.ts
+#EXTINF:-1,BeinSport1 FULL HD
+http://54.39.179.143:8000/live/test/server/204.ts
+#EXTINF:-1,BeinSport2 FULL HD
+http://54.39.179.143:8000/live/test/server/205.ts
+#EXTINF:-1,BeinSport3 FULL HD
+http://54.39.179.143:8000/live/test/server/206.ts
+#EXTINF:-1,BeinSport4 FULL HD
+http://54.39.179.143:8000/live/test/server/207.ts
+#EXTINF:-1,BeinSport5 FULL HD
+http://54.39.179.143:8000/live/test/server/208.ts
+#EXTINF:-1,AR: beIN SPORTS 1HD
+http://54.39.179.143:8000/live/test/server/223.ts
+#EXTINF:-1,AR: beIN SPORTS 2HD
+http://54.39.179.143:8000/live/test/server/224.ts
+#EXTINF:-1,AR: beIN SPORTS 3HD
+http://54.39.179.143:8000/live/test/server/225.ts
+#EXTINF:-1,AR: beIN SPORTS 4HD
+http://54.39.179.143:8000/live/test/server/226.ts
+#EXTINF:-1,AR: beIN SPORTS 5HD
+http://54.39.179.143:8000/live/test/server/227.ts
+#EXTINF:-1,AR: beIN SPORTS 6HD
+http://54.39.179.143:8000/live/test/server/228.ts
+#EXTINF:-1,AR: beIN SPORTS 7HD
+http://54.39.179.143:8000/live/test/server/229.ts
+#EXTINF:-1,AR: beIN SPORTS 8HD
+http://54.39.179.143:8000/live/test/server/230.ts
+#EXTINF:-1,AR: beIN SPORTS 9HD
+http://54.39.179.143:8000/live/test/server/231.ts
+#EXTINF:-1,AR: beIN SPORTS 10HD
+http://54.39.179.143:8000/live/test/server/232.ts
+#EXTINF:-1,AR: beIN SPORTS 11HD
+http://54.39.179.143:8000/live/test/server/233.ts
+#EXTINF:-1,AR: beIN SPORTS 12HD
+http://54.39.179.143:8000/live/test/server/234.ts
+#EXTINF:-1,AR: beIN SPORTS 13HD
+http://54.39.179.143:8000/live/test/server/235.ts
+#EXTINF:-1,AR: beIN SPORTS 14HD
+http://54.39.179.143:8000/live/test/server/236.ts
+#EXTINF:-1,AR: beIN SPORTS 15HD
+http://54.39.179.143:8000/live/test/server/237.ts
+#EXTINF:-1,AR: beIN SPORTS 16HD
+http://54.39.179.143:8000/live/test/server/238.ts
+#EXTINF:-1,AR: beIN SPORTS 17HD
+http://54.39.179.143:8000/live/test/server/239.ts
+#EXTINF:-1,AR: beIN SPORTS 1SD
+http://54.39.179.143:8000/live/test/server/240.ts
+#EXTINF:-1,AR: beIN SPORTS 2SD
+http://54.39.179.143:8000/live/test/server/241.ts
+#EXTINF:-1,AR: beIN SPORTS 3SD
+http://54.39.179.143:8000/live/test/server/242.ts
+#EXTINF:-1,AR: beIN SPORTS 4SD
+http://54.39.179.143:8000/live/test/server/243.ts
+#EXTINF:-1,AR: beIN SPORTS 5SD
+http://54.39.179.143:8000/live/test/server/244.ts
+#EXTINF:-1,AR: beIN SPORTS 6SD
+http://54.39.179.143:8000/live/test/server/245.ts
+#EXTINF:-1,AR: beIN SPORTS 7SD
+http://54.39.179.143:8000/live/test/server/246.ts
+#EXTINF:-1,AR: beIN SPORTS 8SD
+http://54.39.179.143:8000/live/test/server/247.ts
+#EXTINF:-1,AR: beIN SPORTS 9SD
+http://54.39.179.143:8000/live/test/server/248.ts
+#EXTINF:-1,AR: beIN SPORTS 10SD
+http://54.39.179.143:8000/live/test/server/249.ts
+#EXTINF:-1,AR: beIN SPORTS 1LOW
+http://54.39.179.143:8000/live/test/server/250.ts
+#EXTINF:-1,AR: beIN SPORTS 2LOW
+http://54.39.179.143:8000/live/test/server/251.ts
+#EXTINF:-1,AR: beIN SPORTS 3LOW
+http://54.39.179.143:8000/live/test/server/252.ts
+#EXTINF:-1,AR: beIN SPORTS 4LOW
+http://54.39.179.143:8000/live/test/server/253.ts
+#EXTINF:-1,AR: beIN SPORTS 5LOW
+http://54.39.179.143:8000/live/test/server/254.ts
+#EXTINF:-1,AR: beIN SPORTS 6LOW
+http://54.39.179.143:8000/live/test/server/255.ts
+#EXTINF:-1,AR: beIN SPORTS 7LOW
+http://54.39.179.143:8000/live/test/server/256.ts
+#EXTINF:-1,AR: beIN SPORTS 8LOW
+http://54.39.179.143:8000/live/test/server/257.ts
+#EXTINF:-1,AR: beIN SPORTS 9LOW
+http://54.39.179.143:8000/live/test/server/258.ts
+#EXTINF:-1,beIN SPORTS 10LOW
+http://54.39.179.143:8000/live/test/server/259.ts
+#EXTINF:-1,AR: beIN Sports VeryLow 1
+http://54.39.179.143:8000/live/test/server/260.ts
+#EXTINF:-1,AR: beIN Sports VeryLow 4
+http://54.39.179.143:8000/live/test/server/263.ts
+#EXTINF:-1,BeinSport 1 VERY LOW
+http://54.39.179.143:8000/live/test/server/199.ts
+#EXTINF:-1,BeinSport 2 VERY LOW
+http://54.39.179.143:8000/live/test/server/200.ts
+#EXTINF:-1,BeinSport 3 VERY LOW
+http://54.39.179.143:8000/live/test/server/201.ts
+#EXTINF:-1,BeinSport 4 VERY LOW
+http://54.39.179.143:8000/live/test/server/202.ts
+#EXTINF:-1,BeinSport 5 VERY LOW
+http://54.39.179.143:8000/live/test/server/203.ts
+#EXTINF:-1,BEIN SPORT 2 hd fr
+http://54.39.179.143:8000/live/test/server/183.ts
+#EXTINF:-1,BEIN SPORT 1 HD FR
+http://54.39.179.143:8000/live/test/server/182.ts
+#EXTINF:-1,BEIN MOVIES-1-HD
+http://54.39.179.143:8000/live/test/server/194.ts
+#EXTINF:-1,AR: beIN Movies Hd1
+http://54.39.179.143:8000/live/test/server/284.ts
+#EXTINF:-1,BEIN MOVIES-2 HD
+http://54.39.179.143:8000/live/test/server/170.ts
+#EXTINF:-1,AR: beIN Movies Hd2
+http://54.39.179.143:8000/live/test/server/285.ts
+#EXTINF:-1,BEIN MOVIES-3-HD
+http://54.39.179.143:8000/live/test/server/171.ts
+#EXTINF:-1,AR: beIN Movies Hd3
+http://54.39.179.143:8000/live/test/server/286.ts
+#EXTINF:-1,BEIN MOVIES-4-HD
+http://54.39.179.143:8000/live/test/server/172.ts
+#EXTINF:-1,AR: beIN Movies Hd4
+http://54.39.179.143:8000/live/test/server/287.ts
+#EXTINF:-1,BeIN Series HD 1
+http://54.39.179.143:8000/live/test/server/173.ts
+#EXTINF:-1,BeIN Series HD 2
+http://54.39.179.143:8000/live/test/server/174.ts
+#EXTINF:-1,AR: beIN_Series_1_HD
+http://54.39.179.143:8000/live/test/server/288.ts
+#EXTINF:-1,AR: beIN Series Hd 2
+http://54.39.179.143:8000/live/test/server/289.ts
+#EXTINF:-1,beIN Outdoor HD
+http://54.39.179.143:8000/live/test/server/294.ts
+#EXTINF:-1,beIN Junior HD
+http://54.39.179.143:8000/live/test/server/293.ts
+#EXTINF:-1,beIN Jeem HD
+http://54.39.179.143:8000/live/test/server/292.ts
+#EXTINF:-1,beIN DTX HD
+http://54.39.179.143:8000/live/test/server/291.ts
+#EXTINF:-1,beIN DreamWorks
+http://54.39.179.143:8000/live/test/server/181.ts
+#EXTINF:-1,beIN Drama HD 1
+http://54.39.179.143:8000/live/test/server/290.ts
+#EXTINF:-1,AR:MBC 1 HD
+http://54.39.179.143:8000/live/test/server/295.ts
+#EXTINF:-1,MBC1
+http://54.39.179.143:8000/live/test/server/195.ts
+#EXTINF:-1,MBC 1
+http://54.39.179.143:8000/live/test/server/192.ts
+#EXTINF:-1,AR:MBC 2 HD
+http://54.39.179.143:8000/live/test/server/296.ts
+#EXTINF:-1,MBC 2
+http://54.39.179.143:8000/live/test/server/191.ts
+#EXTINF:-1,AR:MBC 3 HD
+http://54.39.179.143:8000/live/test/server/297.ts
+#EXTINF:-1,AR:MBC 4 HD
+http://54.39.179.143:8000/live/test/server/298.ts
+#EXTINF:-1,MBC 4
+http://54.39.179.143:8000/live/test/server/193.ts
+#EXTINF:-1,AR:MBC MAX HD
+http://54.39.179.143:8000/live/test/server/303.ts
+#EXTINF:-1,AR:MBC ACTION HD
+http://54.39.179.143:8000/live/test/server/299.ts
+#EXTINF:-1,AR:MBC DRAMA HD
+http://54.39.179.143:8000/live/test/server/302.ts
+#EXTINF:-1,AR:MBC BOLLYWOOD HD
+http://54.39.179.143:8000/live/test/server/300.ts
+#EXTINF:-1,AR:MBC DRAMA  Plus HD
+http://54.39.179.143:8000/live/test/server/301.ts
+#EXTINF:-1,AR:MBC Variety HD
+http://54.39.179.143:8000/live/test/server/304.ts
+#EXTINF:-1,AR: AD Sports 1 HD
+http://54.39.179.143:8000/live/test/server/353.ts
+#EXTINF:-1,AR: AD Sports 2 HD
+http://54.39.179.143:8000/live/test/server/354.ts
+#EXTINF:-1,ad sport 2
+http://54.39.179.143:8000/live/test/server/2.ts
+#EXTINF:-1,AR: AD Sport 3
+http://54.39.179.143:8000/live/test/server/355.ts
+#EXTINF:-1,AR: AD Sport 4
+http://54.39.179.143:8000/live/test/server/356.ts
+#EXTINF:-1,AR: AD Sport 5
+http://54.39.179.143:8000/live/test/server/357.ts
+#EXTINF:-1,alkaas hd 1
+http://54.39.179.143:8000/live/test/server/81.ts
+#EXTINF:-1,alkaas hd 4
+http://54.39.179.143:8000/live/test/server/84.ts
+#EXTINF:-1,Abu Dhabi
+http://54.39.179.143:8000/live/test/server/335.ts
+#EXTINF:-1,AR: Al Aoula Inter
+http://54.39.179.143:8000/live/test/server/305.ts
+#EXTINF:-1,AR: Al Aoula Laayoune
+http://54.39.179.143:8000/live/test/server/306.ts
+#EXTINF:-1,2M Moroco
+http://54.39.179.143:8000/live/test/server/307.ts
+#EXTINF:-1,2M
+http://54.39.179.143:8000/live/test/server/5.ts
+#EXTINF:-1,AR: Arriadia
+http://54.39.179.143:8000/live/test/server/309.ts
+#EXTINF:-1,AR: 4 Moroco
+http://54.39.179.143:8000/live/test/server/308.ts
+#EXTINF:-1,AR: Al Maghribia
+http://54.39.179.143:8000/live/test/server/310.ts
+#EXTINF:-1,AR: Tamazight
+http://54.39.179.143:8000/live/test/server/311.ts
+#EXTINF:-1,AR: Athaqafia
+http://54.39.179.143:8000/live/test/server/313.ts
+#EXTINF:-1,AR: Assadissa
+http://54.39.179.143:8000/live/test/server/312.ts
+#EXTINF:-1,OSN Nat GEO Wild HD
+http://54.39.179.143:8000/live/test/server/176.ts
+#EXTINF:-1,OSN Movies Action HD
+http://54.39.179.143:8000/live/test/server/187.ts
+#EXTINF:-1,OSN Movies Family HD
+http://54.39.179.143:8000/live/test/server/186.ts
+#EXTINF:-1,OSN Animal Planet HD
+http://54.39.179.143:8000/live/test/server/185.ts
+#EXTINF:-1,OSN NAT GEO People HD
+http://54.39.179.143:8000/live/test/server/177.ts
+#EXTINF:-1,OSN Nat Geo HD
+http://54.39.179.143:8000/live/test/server/175.ts
+#EXTINF:-1,OSN Movies HD
+http://54.39.179.143:8000/live/test/server/188.ts
+#EXTINF:-1,OSN Discovery Science HD
+http://54.39.179.143:8000/live/test/server/179.ts
+#EXTINF:-1,Super SPORT 1 HD
+http://54.39.179.143:8000/live/test/server/106.ts
+#EXTINF:-1,Super SPORT 2 HD
+http://54.39.179.143:8000/live/test/server/107.ts
+#EXTINF:-1,Super SPORT 3 HD
+http://54.39.179.143:8000/live/test/server/108.ts
+#EXTINF:-1,Super SPORT 5 HD
+http://54.39.179.143:8000/live/test/server/110.ts
+#EXTINF:-1,Salam
+http://54.39.179.143:8000/live/test/server/272.ts
+#EXTINF:-1,Salaam TV
+http://54.39.179.143:8000/live/test/server/140.ts
+#EXTINF:-1,Sada Albalad
+http://54.39.179.143:8000/live/test/server/327.ts
+#EXTINF:-1,RTS DEUX
+http://54.39.179.143:8000/live/test/server/184.ts
+#EXTINF:-1,Rotana Music
+http://54.39.179.143:8000/live/test/server/330.ts
+#EXTINF:-1,Rotana Clip
+http://54.39.179.143:8000/live/test/server/326.ts
+#EXTINF:-1,Rotana Classic
+http://54.39.179.143:8000/live/test/server/325.ts
+#EXTINF:-1,Quest Arabiya
+http://54.39.179.143:8000/live/test/server/318.ts
+#EXTINF:-1,Pyramids TV live
+http://54.39.179.143:8000/live/test/server/315.ts
+#EXTINF:-1,Pyramids Tv HD
+http://54.39.179.143:8000/live/test/server/316.ts
+#EXTINF:-1,ON Sport
+http://54.39.179.143:8000/live/test/server/314.ts
+#EXTINF:-1,Dubai One ~SD
+http://54.39.179.143:8000/live/test/server/344.ts
+#EXTINF:-1,Dmc HD
+http://54.39.179.143:8000/live/test/server/321.ts
+#EXTINF:-1,Dmc Drama
+http://54.39.179.143:8000/live/test/server/320.ts
+#EXTINF:-1,CBC Sofra
+http://54.39.179.143:8000/live/test/server/319.ts
+#EXTINF:-1,CBC 1
+http://54.39.179.143:8000/live/test/server/317.ts
+#EXTINF:-1,Arena sport1
+http://54.39.179.143:8000/live/test/server/102.ts
+#EXTINF:-1,Arena sport 2
+http://54.39.179.143:8000/live/test/server/103.ts
+#EXTINF:-1,Arena sport 3
+http://54.39.179.143:8000/live/test/server/104.ts
+#EXTINF:-1,Arena sport 4
+http://54.39.179.143:8000/live/test/server/105.ts
+#EXTINF:-1,AR: PNN TV
+http://54.39.179.143:8000/live/test/server/282.ts
+#EXTINF:-1,AR: palastine
+http://54.39.179.143:8000/live/test/server/274.ts
+#EXTINF:-1,AR: Nile Sport
+http://54.39.179.143:8000/live/test/server/323.ts
+#EXTINF:-1,AR: Lbc
+http://54.39.179.143:8000/live/test/server/322.ts
+#EXTINF:-1,AR: AJYAL
+http://54.39.179.143:8000/live/test/server/271.ts
+#EXTINF:-1,AR:  Alfelastenia
+http://54.39.179.143:8000/live/test/server/283.ts
+#EXTINF:-1,ALJAZIRA
+http://54.39.179.143:8000/live/test/server/12.ts
