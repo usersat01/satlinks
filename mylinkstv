@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kingdomsat.com/wp-content/uploads/2017/07/logo.png" group-title="Egypt (مَصر)",Al Malakoot
-http://213.162.202.9:8000/play/a01p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tunisvista.com/medias/al-masriya-tv-live-online-streaming-egypt.jpg" group-title="Egypt (مَصر)",Al Masriya
 http://62.210.141.179:8000/ibrahim/123456/238
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Egypt (مَصر)",Al-Nahar Drama
