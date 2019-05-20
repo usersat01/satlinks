@@ -38,6 +38,43 @@ http://62.210.141.179:8000/ibrahim/123456/228
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Life
 http://62.210.141.179:8000/ibrahim/123456/232
 
+#EXTINF:-1,mbc2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1,mbc4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1,dream2
+http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
+#EXTINF:-1,dzairtv
+http://41.111.166.173:8081/live/dzairtv/chunks.m3u8
+#EXTINF:-1,ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rotaflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8
+#EXTINF:-1,rotmas
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1,rotclassic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1,cairo-cinema
+http://showfhaonline.blogspot.com/2019/04/cairo-cinema.html
+#EXTINF:-1,star_movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1,zeeaflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1,cin1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1,TOKTOK-AFLAM
+http://95.170.215.124/live/disk1/TOKTOK-AFLAM/anevia1/TOKTOK-AFLAM-audio_20000=160000-video=1587600.m3u8
+#EXTINF:-1,TOKTOK-kahera_nas
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
