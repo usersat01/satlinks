@@ -15,12 +15,6 @@ http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png" group-title="Egypt (مَصر)",Al-Nahar TV
 http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cycnow.com/site/images/system/logo.png" group-title="Egypt (مَصر)",Christian Youth Channel
-http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://csat.tv/images/1234.PNG" group-title="Egypt (مَصر)",Coptic Sat
-http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://webtvonlive.com/wp-content/uploads/DMC-Drama-webtvonlive-com.jpg" group-title="Egypt (مَصر)",DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
 
@@ -56,9 +50,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
 
 #EXTINF:-1,mbc4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-
-#EXTINF:-1,mbc_msr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 
 #EXTINF:-1,dream2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
