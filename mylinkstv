@@ -42,6 +42,8 @@ http://62.210.141.179:8000/ibrahim/123456/232
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
 #EXTINF:-1,mbc4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1,mbc_msr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:-1,dream2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
 #EXTINF:-1,dzairtv
@@ -64,15 +66,12 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
 #EXTINF:-1,TOKTOK-AFLAM
 http://95.170.215.124/live/disk1/TOKTOK-AFLAM/anevia1/TOKTOK-AFLAM-audio_20000=160000-video=1587600.m3u8
-#EXTINF:-1,TOKTOK-kahera_nas
+#EXTINF:-1,kahera_nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1,almaaref
+http://162.244.80.182:1935/liveTrans/ngrp:channel23_all/chunklist_w1709427736_b1224704.m3u8?v=1460572007
+#EXTINF:-1,zaytoona
+http://109.236.92.216:9090/zaytoona/tracks-v1a1/mono.m3u8?v=1460572007
 
 
 #EXTINF:-1,Al Hurra
