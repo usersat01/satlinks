@@ -1,77 +1,94 @@
 #EXTM3U
 
+#EXTINF:-1,Ar- Hayat TV
+http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
 
-
-#EXTINF:-1,Ar- Hayat TV HD
-http://m-iptv.net:6204/live/miran/123/14414.m3u8
 #EXTINF:-1,Ar- Hayat TV
 http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tunisvista.com/medias/al-masriya-tv-live-online-streaming-egypt.jpg" group-title="Egypt (مَصر)",Al Masriya
 http://62.210.141.179:8000/ibrahim/123456/238
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Egypt (مَصر)",Al-Nahar Drama
 http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png" group-title="Egypt (مَصر)",Al-Nahar TV
 http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cycnow.com/site/images/system/logo.png" group-title="Egypt (مَصر)",Christian Youth Channel
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://csat.tv/images/1234.PNG" group-title="Egypt (مَصر)",Coptic Sat
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://webtvonlive.com/wp-content/uploads/DMC-Drama-webtvonlive-com.jpg" group-title="Egypt (مَصر)",DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.akhbarelyom.com/images/images/medium/20180215195227436.jpg" group-title="Egypt (مَصر)",ERTU 1
 http://62.210.141.179:8000/ibrahim/123456/237
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="Egypt (مَصر)",MBC Masr
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tunisvista.com/medias/mekameleen-tv-live-online-egypt.jpg" group-title="Egypt (مَصر)",Mekameleen News
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15384758478245.png" group-title="Egypt (مَصر)",Mondial TV
 http://62.210.141.179:8000/ibrahim/123456/1217
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.niletc.tv/images/comedy/comedy.png" group-title="Egypt (مَصر)",Nile Comedy
 http://62.210.141.179:8000/ibrahim/123456/234
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.niletc.tv/images/culture/culture.png" group-title="Egypt (مَصر)",Nile Culture
 http://62.210.141.179:8000/ibrahim/123456/236
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.niletc.tv/images/family/family.png" group-title="Egypt (مَصر)",Nile Family
 http://62.210.141.179:8000/ibrahim/123456/228
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Life
 http://62.210.141.179:8000/ibrahim/123456/232
 
 #EXTINF:-1,mbc2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+
 #EXTINF:-1,mbc4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+
 #EXTINF:-1,mbc_msr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+
 #EXTINF:-1,dream2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
-#EXTINF:-1,dzairtv
-http://41.111.166.173:8081/live/dzairtv/chunks.m3u8
+
 #EXTINF:-1,ajyal
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,rotaflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8
+
 #EXTINF:-1,rotmas
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+
 #EXTINF:-1,rotclassic
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1,cairo-cinema
-http://showfhaonline.blogspot.com/2019/04/cairo-cinema.html
+
 #EXTINF:-1,star_movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
 #EXTINF:-1,zeeaflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+
 #EXTINF:-1,cin1
 http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1,TOKTOK-AFLAM
-http://95.170.215.124/live/disk1/TOKTOK-AFLAM/anevia1/TOKTOK-AFLAM-audio_20000=160000-video=1587600.m3u8
+
 #EXTINF:-1,kahera_nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+
 #EXTINF:-1,almaaref
 http://162.244.80.182:1935/liveTrans/ngrp:channel23_all/chunklist_w1709427736_b1224704.m3u8?v=1460572007
+
 #EXTINF:-1,zaytoona
 http://109.236.92.216:9090/zaytoona/tracks-v1a1/mono.m3u8?v=1460572007
-
-
-
