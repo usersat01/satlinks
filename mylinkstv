@@ -83,3 +83,6 @@ http://162.244.80.182:1935/liveTrans/ngrp:channel23_all/chunklist_w1709427736_b1
 
 #EXTINF:-1,zaytoona
 http://109.236.92.216:9090/zaytoona/tracks-v1a1/mono.m3u8?v=1460572007
+
+#EXTINF:-1,ART Aflam1
+http://voxtv.dynns.com:8000/arabic/arabic/893
