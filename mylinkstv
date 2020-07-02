@@ -1,3 +1,12 @@
 
 #EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" tvg-country="SA" tvg-url="" group-title="Saudi Arabia",Rotana Classic HD
 https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" tvg-country="SA" tvg-url="" group-title="Saudi Arabia",Rotana Classic HD
+https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+
+#EXTINF:-1,MBC Masr 1
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+
+#EXTINF:-1,MBC Masr 2
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
