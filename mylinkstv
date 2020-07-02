@@ -10,3 +10,7 @@ https://shls-masr-prod.shahid.net/masr-prod.m3u8
 
 #EXTINF:-1,MBC Masr 2
 https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+
+
+#EXTINF:-1,Alhyat Hamra
+http://161.35.215.36:9000/live/koka/koka/4.ts
